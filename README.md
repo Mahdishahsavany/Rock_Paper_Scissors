@@ -18,3 +18,7 @@ The user plays against the system, and the program randomly generates the system
 - Python
 - Turtle
 - Random
+
+## Screenshot
+
+![Rock Paper Scissors Screenshot](Rock_Paper_Scissors.png)
